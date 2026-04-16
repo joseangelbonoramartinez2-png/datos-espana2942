@@ -1,0 +1,638 @@
+{
+  "weapons": [],
+  "missiles": [],
+  "quantumDrives": [],
+  "shields": [],
+  "ships": [
+    {
+      "id": 100,
+      "name": "Avenger Stalker",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Interceptor",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 102,
+      "name": "Avenger Titan",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Light Freight",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 124,
+      "name": "Avenger Titan Renegade",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Light Freight",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 101,
+      "name": "Avenger Warlock",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Interdiction",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 130,
+      "name": "Eclipse",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Stealth Bomber",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 130,
+      "name": "Eclipse",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Stealth Bomber",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 60,
+      "name": "Gladius",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Light Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 60,
+      "name": "Gladius Dunlevy",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Light Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 188,
+      "name": "Gladius Pirate",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Light Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 121,
+      "name": "Gladius Valiant",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Light Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 151,
+      "name": "Hammerhead",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Heavy Gunship",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 195,
+      "name": "Hammerhead 2949 Best In Show Edition",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Heavy Gunship",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 27,
+      "name": "Idris-M",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Frigate",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 28,
+      "name": "Idris-P",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Frigate",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 28,
+      "name": "Idris-P",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Frigate",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 28,
+      "name": "Idris-P Wikelo War Special",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Frigate",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 63,
+      "name": "Javelin",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Destroyer",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 51,
+      "name": "Reclaimer",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Heavy Salvage",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 196,
+      "name": "Reclaimer 2949 Best In Show Edition",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Heavy Salvage",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 51,
+      "name": "Reclaimer Teach's Special",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Heavy Salvage",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 59,
+      "name": "Redeemer",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Gunship",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 72,
+      "name": "Retaliator",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Modular",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 98,
+      "name": "Sabre",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Stealth Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 120,
+      "name": "Sabre Comet",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Stealth Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 267,
+      "name": "Sabre Firebird",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Stealth Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 267,
+      "name": "Sabre Firebird Wikelo War Special",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Stealth Fighter",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 276,
+      "name": "Sabre Peregrine",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Racing",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 276,
+      "name": "Sabre Peregrine Wikelo Speedy Special",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Racing",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 148,
+      "name": "Sabre Raven",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Interdiction",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    },
+    {
+      "id": 95,
+      "name": "Vanguard Harbinger",
+      "manufacturer": "Aegis Dynamics",
+      "role": "Heavy Fighter / Bomber",
+      "price": "Pendiente aUEC",
+      "powerPlant": {
+        "name": "Generador Estándar",
+        "output": null
+      },
+      "capacitor": {
+        "weaponPool": null,
+        "regenRate": 200
+      },
+      "hardpoints": {
+        "weapons": [],
+        "shields": [],
+        "missiles": [],
+        "quantum": null
+      }
+    }
+  ]
+}
